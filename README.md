@@ -33,7 +33,7 @@
 
 ## Örnek Çıktı
 
-# ![Örnek Çıktı](example_output.png)
+# ![Örnek Çıktı](example_output1.png)(example_output2.png)(example_output3.png)
 
 ## Lisans
 
