@@ -35,6 +35,3 @@
 
 # ![Örnek Çıktı](example_output1.png)
 
-## Lisans
-
-# Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakınız.
