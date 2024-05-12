@@ -5,10 +5,10 @@
 
 ## Kullanılan Teknolojiler
 
-# - Python
-# - OpenCV
-# - NumPy
-# - Keras
+ - Python
+ - OpenCV
+ - NumPy
+ - Keras
 
 ## Gereksinimler
 
