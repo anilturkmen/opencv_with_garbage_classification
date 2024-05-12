@@ -1,37 +1,35 @@
+# Waste Classification System
 
-# Atık Sınıflandırma Sistemi
+# This project enables automatic classification of recyclable wastes (glass, metal, paper, plastic, cardboard, and tetra pak) using computer vision systems.
 
-# Bu proje, bilgisayarlı görü sistemleri kullanarak geri dönüşümlü atıkların (cam, metal, kağıt, plastik, karton ve tetra pak) otomatik olarak sınıflandırılmasını sağlar. 
-
-## Kullanılan Teknolojiler
+## Technologies Used
 
  - Python
  - OpenCV
  - NumPy
  - Keras
 
-## Gereksinimler
+## Requirements
 
-# Bu projeyi çalıştırmak için bilgisayarınızda Python'un yüklü olması gerekmektedir. Ayrıca, aşağıdaki Python kütüphanelerine de ihtiyacınız olacaktır:
+# To run this project, you need Python installed on your computer. Additionally, you will need the following Python libraries:
 
 # ```
-# pip install opencv-python numpy keras
+ pip install opencv-python numpy keras
 # ```
 
-## Kullanım
+## Usage
 
-# 1. `model_yuzde91.keras` adlı model dosyasını projenin ana dizinine yerleştirin.
-# 2. Kod parçasını çalıştırmak için terminal veya komut istemcisinde proje dizinine gidin.
-# 3. Aşağıdaki komutu çalıştırarak programı başlatın:
+ 1. Place the model file named `model_yuzde91.keras` in the project's main directory.
+ 2. Navigate to the project directory in your terminal or command prompt to run the code.
+ 3. Start the program by running the following command:
 
 # ```
 # python garbage_classification.py
 # ```
 
-# 4. Kameranız açılacak ve atıkları sınıflandırmaya hazır hale gelecektir. Atığı kameraya gösterin ve ekranda tahmin edilen atık türünü görebilirsiniz.
-# 5. Çıkış yapmak için klavyeden 'q' tuşuna basın.
+ 4. Your camera will open, and the system will be ready to classify wastes. Show the waste to the camera, and you will see the predicted type of waste on the screen.
+ 5. Press 'q' on your keyboard to exit.
 
-## Örnek Çıktı
+## Example Output
 
-# ![Örnek Çıktı](example_output1.png)
-
+# ![Example Output](example_output1.png)
